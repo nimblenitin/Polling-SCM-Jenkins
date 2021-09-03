@@ -4,7 +4,7 @@ Steps to schedule a freestyle job in Jenkins that polls the SCM every night-
 
 ```
 
-1. Create a freesyle build job
+1. Create a freesyle build job in Jenkins.
 
 2. Add a Git source for repository which has sample Java code for build
 Ex- https://github.com/nimblenitin/Freestyle-Jobs-Jenkins.git
